@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T10:57:22 GMT+05:30" name="Parallel Suite" finished-at="2022-08-24T10:57:22 GMT+05:30" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T10:57:22 GMT+05:30" name="Parallel Test" finished-at="2022-08-24T10:57:22 GMT+05:30" duration-ms="51">
+      <class name="ParallelTestExecution.ParallelTestExecutionExample">
+        <test-method signature="fifthMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecutionExample@35cabb2a]" started-at="2022-08-24T10:57:22 GMT+05:30" name="fifthMethod" finished-at="2022-08-24T10:57:22 GMT+05:30" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthMethod -->
+        <test-method signature="firstMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecutionExample@35cabb2a]" started-at="2022-08-24T10:57:22 GMT+05:30" name="firstMethod" finished-at="2022-08-24T10:57:22 GMT+05:30" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+        <test-method signature="secondMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecutionExample@35cabb2a]" started-at="2022-08-24T10:57:22 GMT+05:30" name="secondMethod" finished-at="2022-08-24T10:57:22 GMT+05:30" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondMethod -->
+        <test-method signature="fourthMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecutionExample@35cabb2a]" started-at="2022-08-24T10:57:22 GMT+05:30" name="fourthMethod" finished-at="2022-08-24T10:57:22 GMT+05:30" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthMethod -->
+        <test-method signature="thirdMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecutionExample@35cabb2a]" started-at="2022-08-24T10:57:22 GMT+05:30" name="thirdMethod" finished-at="2022-08-24T10:57:22 GMT+05:30" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdMethod -->
+      </class> <!-- ParallelTestExecution.ParallelTestExecutionExample -->
+    </test> <!-- Parallel Test -->
+  </suite> <!-- Parallel Suite -->
+</testng-results>
