@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T17:05:29 GMT+05:30" name="Parallel Suite" finished-at="2022-08-24T17:05:46 GMT+05:30" duration-ms="17726">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T17:05:29 GMT+05:30" name="Parallel Test" finished-at="2022-08-24T17:05:46 GMT+05:30" duration-ms="17726">
+      <class name="ParallelTestExecution.ParallelTestExecution">
+        <test-method signature="ParallelTestExecutionMethodLevelFifthMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecution@1d2adfbe]" started-at="2022-08-24T17:05:29 GMT+05:30" name="ParallelTestExecutionMethodLevelFifthMethod" finished-at="2022-08-24T17:05:34 GMT+05:30" duration-ms="5660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParallelTestExecutionMethodLevelFifthMethod -->
+        <test-method signature="ParallelTestExecutionMethodLevelFourthMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecution@1d2adfbe]" started-at="2022-08-24T17:05:29 GMT+05:30" name="ParallelTestExecutionMethodLevelFourthMethod" finished-at="2022-08-24T17:05:37 GMT+05:30" duration-ms="7962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParallelTestExecutionMethodLevelFourthMethod -->
+        <test-method signature="ParallelTestExecutionMethodLevelThirdMethod()[pri:0, instance:ParallelTestExecution.ParallelTestExecution@1d2adfbe]" started-at="2022-08-24T17:05:34 GMT+05:30" name="ParallelTestExecutionMethodLevelThirdMethod" finished-at="2022-08-24T17:05:39 GMT+05:30" duration-ms="4197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ParallelTestExecutionMethodLevelThirdMethod -->
+        <test-method signature="chromeParallelTestExecutionMethodLevel()[pri:0, instance:ParallelTestExecution.ParallelTestExecution@1d2adfbe]" started-at="2022-08-24T17:05:37 GMT+05:30" name="chromeParallelTestExecutionMethodLevel" finished-at="2022-08-24T17:05:41 GMT+05:30" duration-ms="3970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeParallelTestExecutionMethodLevel -->
+        <test-method signature="microsoftEdgeParallelTestExecutionMethodLevel()[pri:0, instance:ParallelTestExecution.ParallelTestExecution@1d2adfbe]" started-at="2022-08-24T17:05:39 GMT+05:30" name="microsoftEdgeParallelTestExecutionMethodLevel" finished-at="2022-08-24T17:05:46 GMT+05:30" duration-ms="7828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- microsoftEdgeParallelTestExecutionMethodLevel -->
+      </class> <!-- ParallelTestExecution.ParallelTestExecution -->
+    </test> <!-- Parallel Test -->
+  </suite> <!-- Parallel Suite -->
+</testng-results>
